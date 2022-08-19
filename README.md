@@ -1,2 +1,0 @@
-# writer-assignment
-writer assignment
